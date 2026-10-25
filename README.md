@@ -127,21 +127,25 @@ Prioritizing readability, navigation clarity, and intuitive interactions.
 
 ---
 
-## Designer
 
-**Ahmed Rami**
+## 👨‍💻 Designer & Contact
 
-UI/UX & Brand Identity Designer | Front-End Web Development | Data Science & AI Student
+### Ahmed Rami
+**UI/UX Designer | Graphic Designer | Front-End Developer**
 
-**Location:** Gaza, Palestine  
-**GitHub:** [ahmedrami24200-design](https://github.com/ahmedrami24200-design)
+📍 **Location:** Gaza, Palestine
+
+📧 **Email:** [ahmedrami24200@gmail.com](mailto:ahmedrami24200@gmail.com)
+
+💻 **GitHub:** [Ahmed Rami](https://github.com/ahmedrami24200-design)
 
 ---
 
 <div align="center">
 
-### Designed with Purpose. Built Around Experience.
+### Let's Create Something Extraordinary.
 
-**PDM — UI/UX Design Portfolio**
+*Open to creative collaborations and professional opportunities.*
 
 </div>
+
