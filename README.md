@@ -1,86 +1,147 @@
+
 <div align="center">
 
-# PDM — Website UI/UX Design
+# PDM — UI/UX Design
 
-**A bilingual digital agency website experience**
+### A Modern, Bilingual Digital Agency Experience
 
-UI/UX Design · Arabic & English · Light & Dark Themes
+**UI/UX Design • Responsive Interfaces • Visual Consistency**
 
-**Designer:** Ahmed Rami  |  **Project:** PDM  |  **Role:** UI/UX Designer
+A professional website interface design project created for PDM, focusing on usability, accessibility, and a consistent digital experience.
 
-</div>
+**Role:** UI/UX Designer  
+**Project:** PDM Digital Agency  
+**Languages:** Arabic & English  
+**Themes:** Light & Dark
 
 ---
 
-## 01 · Project Overview
+## Project Preview
 
-PDM is a digital services agency website presenting web development, UI/UX design, digital marketing, and brand identity services. This case study documents the **website interface and user-experience design** through selected screen captures.
+![PDM Homepage](assets/01-home-english-light.png)
 
-**My contribution:** UI/UX design. This portfolio does not claim responsibility for front-end development or implementation.
+</div>
 
-## 02 · Design Direction
+## Project Overview
 
-The interface combines a deep navy foundation, vivid electric-blue accents, spacious light surfaces, and illustrated service cards. The design uses a prominent introductory section, clear calls to action, and consistent navigation to guide visitors through the agency's offerings.
+PDM is a digital agency website designed to communicate the company's services, showcase its portfolio, and provide visitors with an intuitive browsing experience.
 
-### Key interface considerations
+My role in this project focused on the user interface and user experience design, with particular attention to visual hierarchy, navigation, typography, layout consistency, and bilingual accessibility.
 
-- **Bilingual layouts:** Arabic right-to-left and English left-to-right presentations.
-- **Theme flexibility:** light and dark appearances with consistent component styling.
-- **Navigation:** clear access to Home, Services, Portfolio, About, and Contact.
-- **Content hierarchy:** prominent headlines, supporting descriptions, and action buttons.
-- **Service discovery:** categorized cards and portfolio filtering controls shown in the designs.
+## Design Highlights
 
-## 03 · Selected Screens
+- **Modern Interface:** Clean layouts, balanced spacing, and a professional blue-based visual language.
+- **Bilingual Experience:** Arabic RTL and English LTR interface layouts.
+- **Light & Dark Modes:** Consistent design across two visual themes.
+- **Navigation:** Clearly structured sections and accessible calls to action.
+- **Visual Consistency:** Reusable interface patterns, cards, buttons, and typography.
+- **Responsive Design Considerations:** Layouts designed with adaptability in mind.
 
-### Homepage · English / Light
-![PDM homepage, English light theme](assets/01-home-english-light.png)
+## Homepage Experience
 
-### Homepage · Arabic / Light
-![PDM homepage, Arabic right-to-left layout](assets/02-home-arabic-light.png)
+### English — Light Mode
+![English Light Homepage](assets/01-home-english-light.png)
 
-### Homepage · English / Dark
-![PDM homepage, English dark theme](assets/03-home-english-dark.png)
+### Arabic — Light Mode
+![Arabic Light Homepage](assets/02-home-arabic-light.png)
 
-### Services · Arabic / Dark
-![PDM services page, Arabic dark theme](assets/04-services-arabic-dark.png)
+### English — Dark Mode
+![English Dark Homepage](assets/03-home-english-dark.png)
 
-### Services · Arabic / Light
-![PDM services page, Arabic light theme](assets/05-services-arabic-light.png)
+## Services Experience
 
-### Portfolio · Arabic / Light
-![PDM portfolio page, Arabic light theme](assets/08-portfolio-arabic-light.png)
+The services interface presents PDM's digital solutions through structured content, illustrations, and consistent interaction elements.
 
-### Portfolio · English / Dark
-![PDM portfolio page, English dark theme](assets/09-portfolio-english-dark.png)
+### Arabic — Dark Mode
+![Services Dark](assets/04-services-arabic-dark.png)
 
-### About · English / Dark
-![PDM about page, English dark theme](assets/10-about-english-dark.png)
+### Arabic — Light Mode
+![Services Light](assets/05-services-arabic-light.png)
 
-### About · English / Light
-![PDM about page, English light theme](assets/11-about-english-light.png)
+### Digital Marketing
+![Digital Marketing](assets/06-marketing-light.png)
 
-### Contact & Footer · Light
-![PDM contact section and footer](assets/12-contact-light.png)
+### Branding & Identity
+![Branding](assets/07-branding-light.png)
 
-## 04 · Additional Interface Details
+## Portfolio Experience
 
-### Digital Marketing Section
-![Digital marketing services](assets/06-marketing-light.png)
+The portfolio interface organizes featured projects into clear visual cards, with category-based navigation to support project discovery.
 
-### Branding Section
-![Branding and identity services](assets/07-branding-light.png)
+### Arabic — Light Mode
+![Portfolio Arabic](assets/08-portfolio-arabic-light.png)
 
-## 05 · Design Notes
+### English — Dark Mode
+![Portfolio English](assets/09-portfolio-english-dark.png)
 
-The visual system emphasizes strong headline contrast, repeatable card components, recognizable blue-accent buttons, and consistent layout patterns across the site's sections. Arabic and English views demonstrate adaptations in alignment and reading direction, while light and dark views illustrate alternate visual treatments.
+## About PDM
 
-These notes describe **visible design choices**. User research, usability testing, conversion improvements, and business impact are not claimed without supporting evidence.
+The About interface communicates the agency's identity, mission, vision, values, and team through a structured and approachable design.
 
-## 06 · Credits & Scope
+### Dark Mode
+![About Dark](assets/10-about-english-dark.png)
 
-- **Company / Project:** PDM
-- **UI/UX Designer:** Ahmed Rami
-- **Scope documented:** website interface and experience design
-- **Materials:** selected project screenshots, included for portfolio documentation subject to PDM's permission
+### Light Mode
+![About Light](assets/11-about-english-light.png)
 
-> This repository is a design case study, not the website source code. All PDM trademarks, content, and related assets remain the property of their respective owners.
+## Contact Experience
+
+The contact interface provides a clear pathway for visitors to connect with PDM and explore collaboration opportunities.
+
+![Contact](assets/12-contact-light.png)
+
+## Design Approach
+
+**01 — Structure**
+
+Organizing content into intuitive sections with a clear information hierarchy.
+
+**02 — Interface Design**
+
+Developing consistent visual elements, layouts, typography, and color treatments.
+
+**03 — Bilingual Adaptation**
+
+Adapting the interface for both Arabic and English reading directions.
+
+**04 — Theme Consistency**
+
+Maintaining visual coherence across light and dark appearances.
+
+**05 — User Experience**
+
+Prioritizing readability, navigation clarity, and intuitive interactions.
+
+## My Contribution
+
+**UI/UX Design**
+
+- User interface layout and visual composition
+- Navigation and content organization
+- Typography and visual hierarchy
+- Bilingual interface adaptation
+- Light and dark theme design
+- Consistent interface components
+
+> This repository showcases my UI/UX design contribution to the PDM website. It is a design portfolio presentation, not the website's source-code repository.
+
+---
+
+## Designer
+
+**Ahmed Rami**
+
+UI/UX & Brand Identity Designer | Front-End Web Development | Data Science & AI Student
+
+**Location:** Gaza, Palestine  
+**GitHub:** [ahmedrami24200-design](https://github.com/ahmedrami24200-design)
+
+---
+
+<div align="center">
+
+### Designed with Purpose. Built Around Experience.
+
+**PDM — UI/UX Design Portfolio**
+
+</div>
